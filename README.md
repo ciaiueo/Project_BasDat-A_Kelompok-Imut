@@ -2,7 +2,7 @@
 
 ## Sistem Basis Data Toko Penjualan Retail
 
-### Kelompok Left Join
+### Kelompok Imut
 
 | No | Nama                       | NPM        |
 | -- | -------------------------- | ---------- |

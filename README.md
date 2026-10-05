@@ -15,7 +15,7 @@
 
 ### Link ERD
 
-[Klik di sini untuk melihat ERD](https://drive.google.com/file/d/15H7NKOZa1VQpePpmL8VbLYjteFEjeh94/view?usp=sharing)
+[ERD](https://drive.google.com/file/d/15H7NKOZa1VQpePpmL8VbLYjteFEjeh94/view?usp=sharing)
 
 ---
 
@@ -187,7 +187,7 @@ Perancangan sistem dibuat berdasarkan model relasional, diagram skema, dan ERD y
 
 ERD dapat dilihat melalui link berikut:
 
-[Klik di sini untuk melihat ERD](MASUKKAN_LINK_ERD_DI_SINI)
+[ERD](https://drive.google.com/file/d/15H7NKOZa1VQpePpmL8VbLYjteFEjeh94/view?usp=sharing)
 
 Struktur utama sistem terdiri dari tabel Barang, Pelanggan, Pegawai, Penjualan, dan Detail Penjualan. Tabel-tabel tersebut memiliki hubungan melalui Primary Key dan Foreign Key.
 
